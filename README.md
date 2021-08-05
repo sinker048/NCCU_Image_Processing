@@ -6,7 +6,7 @@ HW1
 -------------
 This is a project about rotating images, watermarking and image compression.
 
-Hw2
+HW2
 -------------
 This is a project about binary morphological operations, linear stretching and histogram equalization.
 
